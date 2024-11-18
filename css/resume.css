@@ -149,6 +149,10 @@ p.lead {
   }
 }
 
+.big-resume-item {
+  margin-top: 50px;
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
