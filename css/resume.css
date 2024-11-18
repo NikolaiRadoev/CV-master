@@ -153,6 +153,10 @@ p.lead {
   margin-top: 50px;
 }
 
+.move-left-3 {
+  margin-left: -3px;
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
