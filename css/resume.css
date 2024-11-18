@@ -149,12 +149,11 @@ p.lead {
   }
 }
 
-.big-resume-item {
-  margin-top: 50px;
-}
-
 .move-left-3 {
-  margin-left: -3px;
+  margin-left: -3px !important;
+}
+.big-resume-item {
+  margin-top: 50px !important;
 }
 
 section.resume-section {
